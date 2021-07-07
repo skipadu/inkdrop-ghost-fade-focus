@@ -1,7 +1,7 @@
 {
   "name": "ghost-fade-focus",
   "main": "./lib/main",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Focused on the current line, others faded like a ghost!",
   "keywords": [],
   "repository": "https://github.com/skipadu/inkdrop-ghost-fade-focus",
