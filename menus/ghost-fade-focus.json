@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Toggle ghost-fade-focus",
+        "command": "ghost-fade-focus:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "ghost-fade-focus",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "ghost-fade-focus:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
